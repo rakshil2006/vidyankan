@@ -1,0 +1,254 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Navbar Styles */
+header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #ffcc00;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+/* Banner Section */
+.banner {
+    background: url('banner.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.banner h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.banner p {
+    font-size: 1.2rem;
+}
+
+/* Vision and Mission Sections */
+section {
+    padding: 50px 20px;
+}
+
+.vision, .mission-objective {
+    background: #fff;
+    border-radius: 8px;
+    margin: 20px auto;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    text-align: center;
+}
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+.mission-objective ul {
+    list-style: none;
+    padding: 0;
+}
+
+.mission-objective ul li {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
+/* Footer Styles */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+footer p {
+    margin: 10px 0;
+    font-size: 0.9rem;
+}
+
+footer p:last-child {
+    opacity: 0.7;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+/* General Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Navbar Styles */
+header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #ffcc00;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+/* Banner Section */
+.banner {
+    background: url('banner.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.banner h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.banner p {
+    font-size: 1.2rem;
+}
+
+/* Vision and Mission Sections */
+section {
+    padding: 50px 20px;
+}
+
+.vision, .mission-objective {
+    background: #fff;
+    border-radius: 8px;
+    margin: 20px auto;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    text-align: center;
+}
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+.mission-objective ul {
+    list-style: none;
+    padding: 0;
+}
+
+.mission-objective ul li {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
+/* Footer Styles */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+footer p {
+    margin: 10px 0;
+    font-size: 0.9rem;
+}
+
+footer p:last-child {
+    opacity: 0.7;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
